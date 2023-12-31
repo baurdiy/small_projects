@@ -16,3 +16,4 @@ class Quadratic:
 if __name__ == "__main__":
     run = Quadratic()
     run.roots()
+    
